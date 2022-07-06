@@ -1,0 +1,181 @@
+.banner
+{
+    background-image: url('../../../assets/img/banner.png');
+    height: 800px;
+    background-position: center top;
+    background-size: cover;
+}
+
+.bannerm
+{
+    background-image: url('../../../assets/img/manos.png');
+    height: 500px;
+    background-position: center top;
+    background-size: cover;
+}
+
+.bannerm h1
+{
+    text-align: center;
+    color: white;
+    font-family: 'Saol Standard';
+    font-style: normal;
+    font-size: 80px;
+    font-weight: lighter;
+}
+
+.banner h1
+{
+    color: white;
+    font-family: 'Saol Standard';
+    font-style: normal;
+    font-size: 80px;
+    font-weight: lighter;
+    top: 40%;
+    left: 7%;
+    position: absolute;
+}
+
+.col-lg-4
+{
+    color: white;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-size: 22px;
+    font-weight: lighter;
+    top: 65%;
+    left: 7.5%;
+    position: absolute;
+}
+
+.boton
+{
+    background: #739333;
+    width: 214px;
+    height: 49px;
+    border-radius: 4px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    border: none;
+}
+
+.botons
+{
+    background: #EEAA7F;
+    width: 214px;
+    height: 49px;
+    border-radius: 4px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    border: none;
+}
+
+.part1{
+    position: relative;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-style: normal;
+    font-size: 40px;
+    line-height: 111.8%;
+    background-color: #EEAA7F;
+}
+
+.experiencia
+{
+background-color: #899FC4;
+}
+
+.formulas
+{
+background-color: #CEC5B4;
+}
+
+.formulas h1
+{
+    font-family: 'Saol Standard';
+    font-style: normal;
+    font-size: 40px;
+}
+
+.formulas p{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-size: 17px;
+}
+
+.experiencia h1
+{
+    font-family: 'Ondo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    color: #D6EFA4;
+}
+
+.part1 h1{
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Ondo';
+}
+
+.part1 p{
+    font-family: 'DM Mono';
+    font-style: normal;
+    font-size: 38px;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.part2 {
+    background-color: #FDFCF5;
+}
+
+.part2 h1
+{
+    margin-left: 50px;
+    margin-top: 50px;
+    position: relative;
+    font-family: 'Ondo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.part2 p
+{
+    padding-left: 70%;
+    padding-right: 10%;
+    margin-top: -185px;
+    position: relative;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.part2 hr
+{
+    width: 86.5%;
+    margin-left: 3%;
+    height: 12px; 
+    color: black;
+}
+
+
+.p21{
+margin-left: 20%;
+}
+
+.p22{
+    margin-left: 40%;
+}
+
+.p23{
+    margin-left: 65%;
+}
